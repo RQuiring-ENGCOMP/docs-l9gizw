@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-iegq1r.pulaucuan.org/sitemap.xml
